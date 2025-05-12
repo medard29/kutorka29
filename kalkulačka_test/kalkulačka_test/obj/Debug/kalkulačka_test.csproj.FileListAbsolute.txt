@@ -1,0 +1,20 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\bin\Debug\kalkulačka_test.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\bin\Debug\kalkulačka_test.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\bin\Debug\kalkulačka_test.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.pdb
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\bin\Debug\kalkulačka_test.exe.config
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\bin\Debug\kalkulačka_test.exe
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\bin\Debug\kalkulačka_test.pdb
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.csproj.AssemblyReference.cache
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.Form1.resources
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.Properties.Resources.resources
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.exe
+C:\Programy\C#\Programy\kalkulačka_test\kalkulačka_test\obj\Debug\kalkulačka_test.pdb

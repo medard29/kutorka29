@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF477FFC-150F-46EA-ACF4-2EB23D46B555}|Editace tabulkovych dat\\Editace tabulkovych dat.csproj|c:\\programy\\c#\\programy\\editace tabulkovych dat\\editace tabulkovych dat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF477FFC-150F-46EA-ACF4-2EB23D46B555}|Editace tabulkovych dat\\Editace tabulkovych dat.csproj|solutionrelative:editace tabulkovych dat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF477FFC-150F-46EA-ACF4-2EB23D46B555}|Editace tabulkovych dat\\Editace tabulkovych dat.csproj|C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\editace tabulkovych dat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF477FFC-150F-46EA-ACF4-2EB23D46B555}|Editace tabulkovych dat\\Editace tabulkovych dat.csproj|solutionrelative:editace tabulkovych dat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF477FFC-150F-46EA-ACF4-2EB23D46B555}|Editace tabulkovych dat\\Editace tabulkovych dat.csproj|C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\editace tabulkovych dat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF477FFC-150F-46EA-ACF4-2EB23D46B555}|Editace tabulkovych dat\\Editace tabulkovych dat.csproj|solutionrelative:editace tabulkovych dat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\Editace tabulkovych dat\\Form1.cs",
+              "RelativeDocumentMoniker": "Editace tabulkovych dat\\Form1.cs",
+              "ToolTip": "C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\Editace tabulkovych dat\\Form1.cs",
+              "RelativeToolTip": "Editace tabulkovych dat\\Form1.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAWwCwBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:15:49.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\Editace tabulkovych dat\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Editace tabulkovych dat\\Form1.Designer.cs",
+              "ToolTip": "C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\Editace tabulkovych dat\\Form1.Designer.cs",
+              "RelativeToolTip": "Editace tabulkovych dat\\Form1.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAD4v/wAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:13:45.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\Editace tabulkovych dat\\Form1.cs",
+              "RelativeDocumentMoniker": "Editace tabulkovych dat\\Form1.cs",
+              "ToolTip": "C:\\Programy\\C#\\Programy\\Editace tabulkovych dat\\Editace tabulkovych dat\\Form1.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Editace tabulkovych dat\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:10:32.359Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

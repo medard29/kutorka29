@@ -1,0 +1,20 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\bin\Debug\Krapniky.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\bin\Debug\Krapniky.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\bin\Debug\Krapniky.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\obj\Debug\Krapniky.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\obj\Debug\Krapniky.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\obj\Debug\Krapniky.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\obj\Debug\Krapniky.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\obj\Debug\Krapniky.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\obj\Debug\Krapniky.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Krapniky\Krapniky\obj\Debug\Krapniky.pdb
+C:\Programy\C#\Programy\Krapniky\Krapniky\bin\Debug\Krapniky.exe.config
+C:\Programy\C#\Programy\Krapniky\Krapniky\bin\Debug\Krapniky.exe
+C:\Programy\C#\Programy\Krapniky\Krapniky\bin\Debug\Krapniky.pdb
+C:\Programy\C#\Programy\Krapniky\Krapniky\obj\Debug\Krapniky.csproj.AssemblyReference.cache
+C:\Programy\C#\Programy\Krapniky\Krapniky\obj\Debug\Krapniky.Form1.resources
+C:\Programy\C#\Programy\Krapniky\Krapniky\obj\Debug\Krapniky.Properties.Resources.resources
+C:\Programy\C#\Programy\Krapniky\Krapniky\obj\Debug\Krapniky.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\Krapniky\Krapniky\obj\Debug\Krapniky.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\Krapniky\Krapniky\obj\Debug\Krapniky.exe
+C:\Programy\C#\Programy\Krapniky\Krapniky\obj\Debug\Krapniky.pdb

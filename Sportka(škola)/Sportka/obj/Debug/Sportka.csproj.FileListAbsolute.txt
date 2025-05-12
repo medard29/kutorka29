@@ -1,0 +1,10 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\bin\Debug\Sportka.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\bin\Debug\Sportka.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\bin\Debug\Sportka.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.pdb

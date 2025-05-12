@@ -1,0 +1,33 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.deps.json
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.runtimeconfig.json
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.dll
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.AssemblyInfoInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.AssemblyInfo.cs
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.dll
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\refint\Dinamic_Grafika.dll
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.genruntimeconfig.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\ref\Dinamic_Grafika.dll
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.exe
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.deps.json
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.runtimeconfig.json
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.dll
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\bin\Debug\net8.0-windows\Dinamic_Grafika.pdb
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.Form1.resources
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.AssemblyInfoInputs.cache
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.AssemblyInfo.cs
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.sourcelink.json
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.dll
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\refint\Dinamic_Grafika.dll
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.pdb
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\Dinamic_Grafika.genruntimeconfig.cache
+C:\Programy\C#\Programy\Dinamic_Grafika\Dinamic_Grafika\obj\Debug\net8.0-windows\ref\Dinamic_Grafika.dll

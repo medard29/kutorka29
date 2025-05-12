@@ -1,0 +1,20 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\bin\Debug\Test02.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\bin\Debug\Test02.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\bin\Debug\Test02.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\obj\Debug\Test02.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\obj\Debug\Test02.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\obj\Debug\Test02.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\obj\Debug\Test02.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\obj\Debug\Test02.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\obj\Debug\Test02.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Test02\Test02\obj\Debug\Test02.pdb
+C:\Programy\C#\Programy\Test02\Test02\bin\Debug\Test02.exe.config
+C:\Programy\C#\Programy\Test02\Test02\bin\Debug\Test02.exe
+C:\Programy\C#\Programy\Test02\Test02\bin\Debug\Test02.pdb
+C:\Programy\C#\Programy\Test02\Test02\obj\Debug\Test02.csproj.AssemblyReference.cache
+C:\Programy\C#\Programy\Test02\Test02\obj\Debug\Test02.Form1.resources
+C:\Programy\C#\Programy\Test02\Test02\obj\Debug\Test02.Properties.Resources.resources
+C:\Programy\C#\Programy\Test02\Test02\obj\Debug\Test02.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\Test02\Test02\obj\Debug\Test02.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\Test02\Test02\obj\Debug\Test02.exe
+C:\Programy\C#\Programy\Test02\Test02\obj\Debug\Test02.pdb

@@ -1,0 +1,20 @@
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\bin\Debug\Posílání paketů (polí_2).exe.config
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\bin\Debug\Posílání paketů (polí_2).exe
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\bin\Debug\Posílání paketů (polí_2).pdb
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).csproj.AssemblyReference.cache
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání_paketů__polí_2_.Form1.resources
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání_paketů__polí_2_.Properties.Resources.resources
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).csproj.GenerateResource.cache
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).csproj.CoreCompileInputs.cache
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).exe
+C:\Programy\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).pdb
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\bin\Debug\Posílání paketů (polí_2).exe.config
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\bin\Debug\Posílání paketů (polí_2).exe
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\bin\Debug\Posílání paketů (polí_2).pdb
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).csproj.AssemblyReference.cache
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání_paketů__polí_2_.Form1.resources
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání_paketů__polí_2_.Properties.Resources.resources
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).csproj.GenerateResource.cache
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).csproj.CoreCompileInputs.cache
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).exe
+C:\Programy\C#\Posílání paketů (polí_2)\Posílání paketů (polí_2)\obj\Debug\Posílání paketů (polí_2).pdb

@@ -1,0 +1,30 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\bin\Debug\Sportka.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\bin\Debug\Sportka.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\bin\Debug\Sportka.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Sportka\Sportka\obj\Debug\Sportka.pdb
+C:\Programy\Sportka\Sportka\bin\Debug\Sportka.exe.config
+C:\Programy\Sportka\Sportka\bin\Debug\Sportka.exe
+C:\Programy\Sportka\Sportka\bin\Debug\Sportka.pdb
+C:\Programy\Sportka\Sportka\obj\Debug\Sportka.csproj.AssemblyReference.cache
+C:\Programy\Sportka\Sportka\obj\Debug\Sportka.Form1.resources
+C:\Programy\Sportka\Sportka\obj\Debug\Sportka.Properties.Resources.resources
+C:\Programy\Sportka\Sportka\obj\Debug\Sportka.csproj.GenerateResource.cache
+C:\Programy\Sportka\Sportka\obj\Debug\Sportka.csproj.CoreCompileInputs.cache
+C:\Programy\Sportka\Sportka\obj\Debug\Sportka.exe
+C:\Programy\Sportka\Sportka\obj\Debug\Sportka.pdb
+C:\Programy\C#\Sportka\Sportka\bin\Debug\Sportka.exe.config
+C:\Programy\C#\Sportka\Sportka\bin\Debug\Sportka.exe
+C:\Programy\C#\Sportka\Sportka\bin\Debug\Sportka.pdb
+C:\Programy\C#\Sportka\Sportka\obj\Debug\Sportka.csproj.AssemblyReference.cache
+C:\Programy\C#\Sportka\Sportka\obj\Debug\Sportka.Form1.resources
+C:\Programy\C#\Sportka\Sportka\obj\Debug\Sportka.Properties.Resources.resources
+C:\Programy\C#\Sportka\Sportka\obj\Debug\Sportka.csproj.GenerateResource.cache
+C:\Programy\C#\Sportka\Sportka\obj\Debug\Sportka.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Sportka\Sportka\obj\Debug\Sportka.exe
+C:\Programy\C#\Sportka\Sportka\obj\Debug\Sportka.pdb

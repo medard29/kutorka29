@@ -1,0 +1,17 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\bin\Debug\kalkulace zákazky.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\bin\Debug\kalkulace zákazky.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\bin\Debug\kalkulace zákazky.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace_zákazky.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace_zákazky.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.pdb
+C:\Programy\C#\Programy\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.csproj.AssemblyReference.cache
+C:\Programy\C#\Programy\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace_zákazky.Form1.resources
+C:\Programy\C#\Programy\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace_zákazky.Properties.Resources.resources
+C:\Programy\C#\Programy\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.exe
+C:\Programy\C#\Programy\kalkulace zákazky\kalkulace zákazky\obj\Debug\kalkulace zákazky.pdb

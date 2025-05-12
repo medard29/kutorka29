@@ -1,0 +1,20 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\bin\Debug\preprava_kal.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\bin\Debug\preprava_kal.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\bin\Debug\preprava_kal.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\obj\Debug\preprava_kal.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\obj\Debug\preprava_kal.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\obj\Debug\preprava_kal.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\obj\Debug\preprava_kal.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\obj\Debug\preprava_kal.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\obj\Debug\preprava_kal.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\preprava_kal\preprava_kal\obj\Debug\preprava_kal.pdb
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\bin\Debug\preprava_kal.exe.config
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\bin\Debug\preprava_kal.exe
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\bin\Debug\preprava_kal.pdb
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\obj\Debug\preprava_kal.csproj.AssemblyReference.cache
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\obj\Debug\preprava_kal.Form1.resources
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\obj\Debug\preprava_kal.Properties.Resources.resources
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\obj\Debug\preprava_kal.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\obj\Debug\preprava_kal.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\obj\Debug\preprava_kal.exe
+C:\Programy\C#\Programy\preprava_kal\preprava_kal\obj\Debug\preprava_kal.pdb

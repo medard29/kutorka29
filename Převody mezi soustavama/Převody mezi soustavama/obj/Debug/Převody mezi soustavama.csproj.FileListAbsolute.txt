@@ -1,0 +1,20 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\bin\Debug\Převody mezi soustavama.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\bin\Debug\Převody mezi soustavama.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\bin\Debug\Převody mezi soustavama.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody_mezi_soustavama.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody_mezi_soustavama.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.pdb
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\bin\Debug\Převody mezi soustavama.exe.config
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\bin\Debug\Převody mezi soustavama.exe
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\bin\Debug\Převody mezi soustavama.pdb
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.csproj.AssemblyReference.cache
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody_mezi_soustavama.Form1.resources
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody_mezi_soustavama.Properties.Resources.resources
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.exe
+C:\Programy\C#\Programy\Převody mezi soustavama\Převody mezi soustavama\obj\Debug\Převody mezi soustavama.pdb

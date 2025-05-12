@@ -1,0 +1,20 @@
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\bin\Debug\Filtr_csv.exe.config
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\bin\Debug\Filtr_csv.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\bin\Debug\Filtr_csv.pdb
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.csproj.AssemblyReference.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.Form1.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.Properties.Resources.resources
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.csproj.GenerateResource.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.csproj.CoreCompileInputs.cache
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.exe
+C:\Users\masek.martin\OneDrive - SPŠ a VOŠ Příbram\Programi\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.pdb
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\bin\Debug\Filtr_csv.exe.config
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\bin\Debug\Filtr_csv.exe
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\bin\Debug\Filtr_csv.pdb
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.csproj.AssemblyReference.cache
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.Form1.resources
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.Properties.Resources.resources
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.csproj.GenerateResource.cache
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.exe
+C:\Programy\C#\Programy\Filtr_csv\Filtr_csv\obj\Debug\Filtr_csv.pdb
