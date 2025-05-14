@@ -1,0 +1,119 @@
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
+
+// Inicializace LCD displeje s I2C adresou 0x27, rozměry 20 znaků a 4 řádky
+LiquidCrystal_I2C lcd(0x27, 20, 4);
+
+// Piny, na které jsou připojena tlačítka hráče 1 a hráče 2
+const int tlacitko1 = 2; // tlačítko pro hráče 1
+const int tlacitko2 = 3; // tlačítko pro hráče 2
+
+// Proměnné pro sledování času (v sekundách)
+int hrac1 = 120; // zbývající čas hráče 1
+int hrac2 = 120; // zbývající čas hráče 2
+
+int cas1 = 0; // čas, který uběhl hráči 1
+int cas2 = 0; // čas, který uběhl hráči 2
+
+// Určuje, který hráč je právě na tahu (true = hráč 1, false = hráč 2)
+bool hraje1 = true;
+
+// Proměnná pro měření času pomocí millis()
+unsigned long posledniCas = 0;
+
+void setup() {
+  // Inicializace displeje
+  lcd.init();
+  lcd.backlight(); // zapnutí podsvícení
+
+  // Nastavení pinů pro tlačítka jako vstupy s interním pull-up odporem
+  pinMode(tlacitko1, INPUT_PULLUP);
+  pinMode(tlacitko2, INPUT_PULLUP);
+
+  // První zobrazení úvodního stavu na LCD
+  Zobraz();
+}
+
+void loop() {
+  // Kontrola stisknutí tlačítka hráče 1
+  if (digitalRead(tlacitko1) == LOW) {
+    // Pokud je tlačítko hráče 1 stisknuté, začíná jeho čas
+    hraje1 = true;
+    delay(200); // jednoduchý "debounce" - potlačení zákmitů tlačítka
+  }
+
+  // Kontrola stisknutí tlačítka hráče 2
+  if (digitalRead(tlacitko2) == LOW) {
+    // Pokud je tlačítko hráče 2 stisknuté, začíná jeho čas
+    hraje1 = false;
+    delay(200); // potlačení zákmitů
+  }
+
+  // Odpočet po 1 sekundě pomocí funkce millis()
+  if (millis() - posledniCas >= 1000) {
+    posledniCas = millis(); // uložení aktuálního času
+
+    // Pokud hraje hráč 1 a má ještě čas
+    if (hraje1 && hrac1 > 0) {
+      cas1++;     // inkrementujeme čas hráče 1
+      hrac1--;    // odečítáme zbývající čas
+    }
+    // Pokud hraje hráč 2 a má ještě čas
+    else if (!hraje1 && hrac2 > 0) {
+      cas2++;     // inkrementujeme čas hráče 2
+      hrac2--;    // odečítáme zbývající čas
+    }
+
+    // Aktualizujeme LCD s novými hodnotami
+    Zobraz();
+  }
+
+  // Pokud jednomu z hráčů došel čas
+  if (hrac1 == 0 || hrac2 == 0) {
+    lcd.clear();
+    lcd.setCursor(0, 0);
+    lcd.print("Vyhral");
+
+    lcd.setCursor(0, 1);
+    if (hrac1 == 0) {
+      lcd.print("hrac 2"); // hráč 2 vyhrál
+    } else {
+      lcd.print("hrac 1"); // hráč 1 vyhrál
+    }
+
+    while (true); // zastavení programu, hra končí
+  }
+}
+
+// Funkce pro zobrazení aktuálního času obou hráčů na LCD
+void Zobraz() {
+  // Přepočet sekund na minuty a sekundy pro oba hráče
+  int minutes1 = cas1 / 60;
+  int seconds1 = cas1 % 60;
+  int minutes2 = cas2 / 60;
+  int seconds2 = cas2 % 60;
+
+  // Vyčištění displeje
+  lcd.clear();
+
+  // První řádek - název
+  lcd.setCursor(0, 0);
+  lcd.print("Sachove hodiny");
+
+  // Druhý řádek - časy obou hráčů
+  lcd.setCursor(0, 1);
+
+  // Zobrazení času hráče 1
+  lcd.print(minutes1);
+  lcd.print(":");
+  if (seconds1 < 10) lcd.print("0"); // přidání nuly pokud je méně než 10 s
+  lcd.print(seconds1);
+
+  lcd.print(" / ");
+
+  // Zobrazení času hráče 2
+  lcd.print(minutes2);
+  lcd.print(":");
+  if (seconds2 < 10) lcd.print("0");
+  lcd.print(seconds2);
+}
